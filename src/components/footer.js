@@ -18,10 +18,10 @@ export default class Footer extends React.Component {
                     </div>
                     <div class="col l6  s12">
                 <h6 class="white-text">Links</h6>
-                <ul className="right">
+                {/* <ul className="right">
                   <li><a className="grey-text text-lighten-3" href="#!">Link 1</a></li>
                   <li><a className="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                </ul>
+                </ul> */}
               </div>
                     
                 </div> 
